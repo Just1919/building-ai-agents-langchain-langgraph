@@ -1,0 +1,11 @@
+# Python version: 3.12.3
+
+# LangChain ecosystem
+langchain>=1.0,<2.0
+langchain-openai
+
+# Agentic workflows
+langgraph>=1.0,<2.0
+
+# Monitoring and observability
+langsmith>=0.3.0
